@@ -1,0 +1,19 @@
+{
+  "name": "react-native-snap-drag",
+  "version": "1.0.0",
+  "description": "Building blocks for React Native For Beginners course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevakallio/react-native-snap-drag.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jevakallio/react-native-snap-drag/issues"
+  },
+  "homepage": "https://github.com/jevakallio/react-native-snap-drag#readme"
+}
